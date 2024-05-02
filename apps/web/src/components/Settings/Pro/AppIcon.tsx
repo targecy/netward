@@ -13,7 +13,7 @@ import { toast } from 'react-hot-toast';
 import { usePreferencesStore } from 'src/store/non-persisted/usePreferencesStore';
 
 const icons = [
-  { id: 0, name: 'Default' },
+  { id: 0, name: 'Pride' },
   { id: 1, name: 'Pride' },
   { id: 2, name: 'Emerald' },
   { id: 3, name: 'Indigo' },

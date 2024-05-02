@@ -89,7 +89,7 @@ const Navbar: FC = () => {
                 alt="Logo"
                 className="size-8"
                 height={32}
-                src={`${STATIC_IMAGES_URL}/app-icon/${appIcon}.png`}
+                src="/logo.png"
                 width={32}
               />
             </Link>

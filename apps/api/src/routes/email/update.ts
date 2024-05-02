@@ -71,7 +71,7 @@ export const post: Handler = async (req, res) => {
       body: `
         <html>
           <body>
-            <p>Welcome to Hey!</p> 
+            <p>Welcome to Netward!</p> 
             <br>
             <p>Please click the link below to verify your email address: ${result.email}</p>
             <a href="https://api.hey.xyz/email/verify?token=${result.verificationToken}">Verify Email →</a>
