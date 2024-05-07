@@ -59,6 +59,11 @@ const Navbar: FC = () => {
           name="Explore"
           url="/explore"
         />
+        <NavItem
+          current={pathname === '/ads'}
+          name="Ads"
+          url="https://ads.netward.social"
+        />
         <MoreNavItems />
       </>
     );
