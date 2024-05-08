@@ -25,6 +25,7 @@
     "@hey/helpers": "workspace:*",
     "@hey/icons": "workspace:*",
     "@hey/image-cropper": "workspace:*",
+    "@targecy/sdk": "0.3.22",
     "@hey/lens": "workspace:*",
     "@hey/ui": "workspace:*",
     "@lens-protocol/metadata": "^1.1.6",
