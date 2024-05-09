@@ -251,8 +251,8 @@ importers:
         specifier: ^5.32.1
         version: 5.32.1(react@18.3.1)
       '@targecy/sdk':
-        specifier: 0.3.22
-        version: 0.3.22(@babel/core@7.24.5)(@tanstack/react-query@5.32.1)(@types/node@20.12.8)(@types/react-dom@18.3.0)(@types/react@18.3.1)(idb-keyval@6.2.1)(next@14.2.3)(postcss@8.4.38)(react-dom@18.3.1)(react-native@0.74.1)(redux@4.2.1)(typescript@5.4.5)(zod@3.23.6)
+        specifier: 0.3.25
+        version: 0.3.25(@babel/core@7.24.5)(@tanstack/react-query@5.32.1)(@types/node@20.12.8)(@types/react-dom@18.3.0)(@types/react@18.3.1)(idb-keyval@6.2.1)(next@14.2.3)(postcss@8.4.38)(react-dom@18.3.1)(react-native@0.74.1)(redux@4.2.1)(typescript@5.4.5)(zod@3.23.6)
       '@thirdweb-dev/storage':
         specifier: ^2.0.14
         version: 2.0.14
@@ -800,7 +800,7 @@ packages:
       rc-util: 5.39.1(react-dom@18.3.1)(react@18.3.1)
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
-      stylis: 4.2.0
+      stylis: 4.3.2
     dev: false
 
   /@ant-design/icons-svg@4.4.2:
@@ -9645,8 +9645,8 @@ packages:
     resolution: {integrity: sha512-KnPRCkQTyqhanNC0K63GBG3wA8I+D1fQuVnAvcBF8f13akOKeQp1gSbu6f77zCxhEk727iV5oQnbHLYzHrECLg==}
     dev: false
 
-  /@targecy/sdk@0.3.22(@babel/core@7.24.5)(@tanstack/react-query@5.32.1)(@types/node@20.12.8)(@types/react-dom@18.3.0)(@types/react@18.3.1)(idb-keyval@6.2.1)(next@14.2.3)(postcss@8.4.38)(react-dom@18.3.1)(react-native@0.74.1)(redux@4.2.1)(typescript@5.4.5)(zod@3.23.6):
-    resolution: {integrity: sha512-zSv1jTp/lLdAHGFhccUjk8x0XZyky+WzX3zQ6nWmSOyjg0AUW7liMSeZMAoJJ5b9HjznaHTLRJT//RAayUidhg==}
+  /@targecy/sdk@0.3.25(@babel/core@7.24.5)(@tanstack/react-query@5.32.1)(@types/node@20.12.8)(@types/react-dom@18.3.0)(@types/react@18.3.1)(idb-keyval@6.2.1)(next@14.2.3)(postcss@8.4.38)(react-dom@18.3.1)(react-native@0.74.1)(redux@4.2.1)(typescript@5.4.5)(zod@3.23.6):
+    resolution: {integrity: sha512-DNIkqvhHPlpKDF9R6cb4egOi8GcnvpYZ449Y2hVbBwSYVEiUUX2SvEpUx45gKxoV6VmQBzoYL+XM8K4QZo9vZw==}
     dependencies:
       '@0xpolygonid/js-sdk': 1.12.0(@iden3/js-crypto@1.0.3)(@iden3/js-iden3-core@1.0.2)(@iden3/js-jsonld-merklization@1.2.0)(@iden3/js-jwz@1.5.0)(@iden3/js-merkletree@1.2.0)(ffjavascript@0.2.63)(rfc4648@1.5.3)(snarkjs@0.7.4)
       '@emotion/react': 11.11.4(@types/react@18.3.1)(react@18.3.1)
